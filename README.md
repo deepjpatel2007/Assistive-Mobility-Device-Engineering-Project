@@ -116,7 +116,7 @@ This project is a completed engineering prototype created for academic and portf
 ## Author
 
 **Deep Patel**  
-Engineering and Computer Science Student
+Engineering and Computer Engineering Student
 
 ## License
 
