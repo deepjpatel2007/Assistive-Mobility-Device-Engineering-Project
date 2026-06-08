@@ -1,0 +1,21 @@
+Metric,Value,Unit,Notes,Source
+Precision speed run time,5.81,seconds,Quickest reported final speed run time,Final Design Report
+Precision speed run score,30,points,Full score including clean pass between flags,Final Design Report
+Eco-trash launch score,26,points,Object hit scoring area and launched real trash,Final Design Report
+Measured mass,1148,g,Final measured mass,Final Design Report
+Calculated mass,1113,g,Calculated mass estimate,Final Design Report
+Centre of mass X,12.96,cm,X-coordinate of centre of mass,Final Design Report
+Centre of mass Y,6.42,cm,Y-coordinate of centre of mass,Final Design Report
+Centre of mass Z,5.13,cm,Z-coordinate of centre of mass,Final Design Report
+Craftsmanship score,4.65,/5,Aesthetics scoring category,Final Design Report
+Creativity score,4.87,/5,Aesthetics scoring category,Final Design Report
+Branding and appeal score,4.53,/5,Aesthetics scoring category,Final Design Report
+Expression score,4.24,/5,Aesthetics scoring category,Final Design Report
+Aesthetics total score,18.30,/20,Total aesthetics score,Final Design Report
+Static tipping test,Pass,N/A,Passed in four directions,Final Design Report
+Upside down test,Pass,N/A,Teddy bear/security safety test,Final Design Report
+Continuous line of sight test,Pass,N/A,240 degree line of sight requirement,Final Design Report
+Teddy bear head position test,Pass,N/A,Teddy bear head higher than torso,Final Design Report
+Greenhouse gas emissions,3263,g CO2e,Life cycle analysis result,Final Design Report
+Water cyanide contamination,0.1645,g CN,Life cycle impact metric,Final Design Report
+Battery consumption,24,AA batteries,Approximately two dozen AA batteries used,Final Design Report
