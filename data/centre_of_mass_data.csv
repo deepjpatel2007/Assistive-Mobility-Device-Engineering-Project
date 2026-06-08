@@ -1,0 +1,7 @@
+Metric,Value,Unit,Notes
+Centre of Mass X,12.96,cm,X-coordinate of centre of mass
+Centre of Mass Y,6.42,cm,Y-coordinate of centre of mass
+Centre of Mass Z,5.13,cm,Z-coordinate of centre of mass
+Measured Mass,1148,g,Final measured mass
+Calculated Mass,1113,g,Engineering estimate
+Mass Difference,35,g,Difference between measured and calculated values
