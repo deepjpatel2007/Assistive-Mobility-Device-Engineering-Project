@@ -1,0 +1,7 @@
+Criteria,Weight,Option A Ambulance Rating,Option A Ambulance Weighted,Option B Batmobile Rating,Option B Batmobile Weighted,Option C Sports Car Rating,Option C Sports Car Weighted
+Weight,5%,4,0.20,5,0.25,7,0.35
+Originality,20%,5,0.40,6,1.20,4,1.20
+Teddy Bear Comfort,30%,8,2.40,4,1.20,2,1.50
+Ease of Service,15%,8,1.20,5,0.75,5,0.75
+Feasibility including copyright compliance,30%,7,2.10,2,0.60,4,1.20
+TOTAL,100%,32,6.30,22,3.00,22,5.00
