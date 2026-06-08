@@ -1,0 +1,31 @@
+Category,Date,Component,Unit Cost CAD,Quantity,Unit,HST CAD,Total Cost CAD,Source
+Mechanical,2025-09-26,Meccano Part 1A (19 Holes),1.90,2,part,N/A,3.80,TBWC Project Document
+Mechanical,2025-09-26,Meccano Part 1B (15 Holes),1.50,1,part,N/A,1.50,TBWC Project Document
+Mechanical,2025-09-26,Meccano Part 4 (6 Holes),0.60,6,part,N/A,3.60,TBWC Project Document
+Mechanical,2025-09-26,Meccano Part 48A (7 Holes),0.70,2,part,N/A,1.40,TBWC Project Document
+Mechanical,2025-09-26,Meccano Part 9F (6 Holes),0.60,2,part,N/A,1.20,TBWC Project Document
+Mechanical,2025-09-26,Meccano Part 51B (15 Holes),1.50,2,part,N/A,3.00,TBWC Project Document
+Mechanical,2025-09-26,Meccano Part 51F (25 Holes),2.50,1,part,N/A,2.50,TBWC Project Document
+Mechanical,2025-09-26,Meccano Part 89 (11 Holes),1.10,2,part,N/A,2.20,TBWC Project Document
+Mechanical,2025-09-26,Meccano Part 52 (87 Holes),8.70,1,part,N/A,8.70,TBWC Project Document
+Mechanical,2025-09-26,Meccano Part 6 (5 Holes),0.50,1,part,N/A,0.50,TBWC Project Document
+Mechanical,2025-09-26,Meccano Part 260C (5 Holes),0.50,2,part,N/A,1.00,TBWC Project Document
+Mechanical,2025-09-26,Rods,1.00,9.7,inches,N/A,9.70,TBWC Project Document
+Mechanical,2025-09-26,Wheels,1.00,3,part,N/A,3.00,TBWC Project Document
+Mechanical,2025-09-26,Large Orange Pulleys,2.00,1,part,N/A,2.00,TBWC Project Document
+Mechanical,2025-09-26,Brass Pulley with Set Screw,3.00,1,part,N/A,3.00,TBWC Project Document
+Mechanical,2025-11-10,Tom Cat Mouse Traps 2-Pack,2.49,1,package,0.76,3.25,nofrills.ca
+Mechanical,2025-09-26,Nuts Bolts Spacers,2.00,1,bulk,N/A,2.00,TBWC Project Document
+Electronics,2025-03-10,Arduino UNO,50.00,1,individual,N/A,50.00,TBWC Project Document
+Electronics,2025-10-20,L250N Motor Controller,12.00,1,individual,N/A,12.00,TBWC Project Document
+Electronics,2025-03-10,DC Motor,10.00,1,individual,N/A,10.00,TBWC Project Document
+Electronics,2025-03-10,Breadboard,5.00,1,individual,N/A,5.00,TBWC Project Document
+Electronics,2025-10-23,AA Battery Holder,5.00,1,individual,N/A,5.00,TBWC Project Document
+Electronics,2025-03-10 to 2025-10-20,22 AWG Wire,2.00,0.5,individual,N/A,1.00,TBWC Project Document
+Electronics,2025-10-21,AA Battery,0.40,8,individual,N/A,3.23,TBWC Project Document
+Electronics,2025-03-10 to 2025-10-20,Diodes (Vishay Semiconductor 1N4148),0.50,2,part,N/A,1.00,TBWC Project Document
+Electronics,2025-03-10 to 2025-10-20,Resistors,0.20,2,part,N/A,0.40,TBWC Project Document
+Electronics,2025-03-10 to 2025-10-20,"Capacitors (5600 pF, 10 nF, 100 nF, 100 uF)",0.50,5,part,N/A,2.50,TBWC Project Document
+Misc,2025-11-03,Coloured Construction Paper,5.00,1,package,0.65,5.65,Appendix Entry A
+Misc,2025-11-03,Astrobright White Cardstock,11.49,1,package,1.49,12.98,Appendix Entry B
+Summary,N/A,Total Production Cost,N/A,N/A,N/A,N/A,161.11,Final Design Report
