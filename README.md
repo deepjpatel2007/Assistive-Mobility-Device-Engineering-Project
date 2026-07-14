@@ -13,7 +13,7 @@ An Arduino-controlled assistive mobility prototype designed, manufactured, progr
 
 ---
 
-## Final Prototype
+## Prototype Display Images
 
 <p align="center">
   <img width="377" alt="Front view of the completed Ambearlance assistive mobility device" src="https://github.com/user-attachments/assets/29e82002-8b8a-46a0-9e67-ca546448d749" />
