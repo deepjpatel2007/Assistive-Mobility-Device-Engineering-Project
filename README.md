@@ -12,10 +12,8 @@ The purpose of this repository is to present the project in a clean professional
 
 > Replace these image paths with the two final product photos you want displayed.
 
-<p align="center">
-  <img src="images/final-design-image-1.jpg" alt="Final Ambearlance Prototype Image 1" width="45%">
-  <img src="images/final-design-image-2.jpg" alt="Final Ambearlance Prototype Image 2" width="45%">
-</p>
+<img width="377" height="413" alt="image" src="https://github.com/user-attachments/assets/29e82002-8b8a-46a0-9e67-ca546448d749" />
+<img width="437" height="275" alt="image" src="https://github.com/user-attachments/assets/cfced7f6-c6ea-4767-ba45-b26d41a3644a" />
 
 ---
 
