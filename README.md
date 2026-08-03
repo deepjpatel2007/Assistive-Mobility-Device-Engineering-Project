@@ -22,15 +22,11 @@ An Arduino-controlled assistive mobility prototype designed, manufactured, progr
 </p>
 
 <p align="center">
-  <img width="250" alt="Prototype Image 1" src="https://github.com/user-attachments/assets/a5574b43-1991-4778-8934-45fc92aa12b6" />
-</p>
-
-<p align="center">
-  <img width="250" alt="Prototype Image 2" src="https://github.com/user-attachments/assets/efaea41c-9ac4-46be-b9a9-e1b283873c27" />
-</p>
-
-<p align="center">
-  <img width="250" alt="Prototype Image 3" src="https://github.com/user-attachments/assets/af7c0ccb-48de-486e-a02c-cb13d9ba2ddf" />
+  <img width="300" alt="Prototype Image 1" src="https://github.com/user-attachments/assets/a5574b43-1991-4778-8934-45fc92aa12b6" />
+  &nbsp;&nbsp;
+  <img width="300" alt="Prototype Image 2" src="https://github.com/user-attachments/assets/efaea41c-9ac4-46be-b9a9-e1b283873c27" />
+  &nbsp;&nbsp;
+  <img width="300" alt="Prototype Image 3" src="https://github.com/user-attachments/assets/af7c0ccb-48de-486e-a02c-cb13d9ba2ddf" />
 </p>
 ---
 
